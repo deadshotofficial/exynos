@@ -36,6 +36,8 @@ Exynos (v4.2.1) is a Cute and Powerful Multipurpose bot featuring a ton of usefu
 ## Self-hosting
 To the aspiring developers who want to try out the awesomeness of this bot by running a local version of itself, no help will be provided in regard to the self-hosting as we developers work hard to provide you users the best quality of performance and a clone of this bot affects our reputation too. If you want to add some new features to it or fix some bugs can fork and do the editing and open up a pull request, also making sure to not violate the License.
 
+## Organisation Details
+
 - [Exynos Development](https://github.com/Exynos-Discord)
 - **Developer and Controller** - [DeadShot](https://deadshot.tech) 
 - **Discord Username** - `DeadShot#2039`
