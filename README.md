@@ -17,7 +17,7 @@ Exynos (v4.2.1) is a Cute and Powerful Multipurpose bot featuring a ton of usefu
 ### Buildpack:
 
 -   [`Node.js`](https://nodejs.org/en/download/current/) : To build and run the project.
--   [`SQLiteL`](https://www.sqlite.org/download.html) : To store guild-based/user-based data.
+-   [`SQLite`](https://www.sqlite.org/download.html) : To store guild-based/user-based data.
 -   [`Discord.js`](https://discord.js.org) : Instance of JavaScript buildpack supporting Discord API.
 
 ### Packages Used:
